@@ -1,0 +1,7 @@
+D:\ProiectPIU\ProiectLaPiu\ProiectLaPiu\bin\Debug\ProiectLaPiu.exe.config
+D:\ProiectPIU\ProiectLaPiu\ProiectLaPiu\bin\Debug\ProiectLaPiu.exe
+D:\ProiectPIU\ProiectLaPiu\ProiectLaPiu\bin\Debug\ProiectLaPiu.pdb
+D:\ProiectPIU\ProiectLaPiu\ProiectLaPiu\obj\Debug\ProiectLaPiu.csproj.AssemblyReference.cache
+D:\ProiectPIU\ProiectLaPiu\ProiectLaPiu\obj\Debug\ProiectLaPiu.csproj.CoreCompileInputs.cache
+D:\ProiectPIU\ProiectLaPiu\ProiectLaPiu\obj\Debug\ProiectLaPiu.exe
+D:\ProiectPIU\ProiectLaPiu\ProiectLaPiu\obj\Debug\ProiectLaPiu.pdb
