@@ -1,0 +1,7 @@
+D:\ProiectPIU\ProiectAgenda\ProiectAgenda\obj\Debug\ProiectAgenda.csproj.AssemblyReference.cache
+D:\ProiectPIU\ProiectAgenda\ProiectAgenda\obj\Debug\ProiectAgenda.csproj.CoreCompileInputs.cache
+D:\ProiectPIU\ProiectAgenda\ProiectAgenda\bin\Debug\ProiectAgenda.exe.config
+D:\ProiectPIU\ProiectAgenda\ProiectAgenda\bin\Debug\ProiectAgenda.exe
+D:\ProiectPIU\ProiectAgenda\ProiectAgenda\bin\Debug\ProiectAgenda.pdb
+D:\ProiectPIU\ProiectAgenda\ProiectAgenda\obj\Debug\ProiectAgenda.exe
+D:\ProiectPIU\ProiectAgenda\ProiectAgenda\obj\Debug\ProiectAgenda.pdb
